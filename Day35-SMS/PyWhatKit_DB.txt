@@ -1,0 +1,30 @@
+Date: 25/8/2022
+Time: 22:47
+Phone Number: +916377285859
+Message: Maximum Temperature : 27.5Minimum Temperature : 24.5
+--------------------
+Date: 25/8/2022
+Time: 22:50
+Phone Number: +916377285859
+Message: Maximum Temperature : 27.5Minimum Temperature : 24.5
+--------------------
+Date: 26/8/2022
+Time: 6:48
+Phone Number: +916377285859
+Message: Maximum Temperature : 30.3Minimum Temperature : 25.1
+--------------------
+Date: 26/8/2022
+Time: 6:51
+Phone Number: +916377285859
+Message: Maximum Temperature : 30.3Minimum Temperature : 25.1
+--------------------
+Date: 26/8/2022
+Time: 6:52
+Phone Number: +916377285859
+Message: Maximum Temperature : 30.3Minimum Temperature : 25.1
+--------------------
+Date: 26/8/2022
+Time: 7:8
+Phone Number: +916377285859
+Message: Maximum Temperature : 30.3Minimum Temperature : 25.1Mostly Weather is gonna be Intermittent clouds
+--------------------
